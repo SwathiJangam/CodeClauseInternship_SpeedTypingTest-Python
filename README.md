@@ -1,0 +1,1 @@
+# CodeClauseInternship_SpeedTypingTest_In_Python
